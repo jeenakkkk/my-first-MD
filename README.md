@@ -1,3 +1,9 @@
+![alt text](https://github.com/jeenakkkk/my-first-MD/blob/main/ChatGPT%20Image%202025%E1%84%82%E1%85%A7%E1%86%AB%204%E1%84%8B%E1%85%AF%E1%86%AF%201%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2003_44_43.png?raw=true)
+
+Table of Contents:
+- [What is Chatbot?](#what-is-chatbot)
+- [What is Bad chatbot?](#what-is-bad-chatbot)
+- [Reference](#references)
 
 # What is Chatbot?
 Definition: a computer program that **simulates human conversation** with an end user
@@ -48,3 +54,8 @@ Definition: a computer program that **simulates human conversation** with an end
 8. **(Low Engagement)**
     
     By immediately pushing external links, the chatbot disrupts the flow of conversation and drives users away rather than keeping them engaged.
+
+# References
+- [AI Chatbot Difference](https://writesonic.com/blog/traditional-vs-ai-vs-chatgpt-trained-chatbots?utm_source=chatgpt.com)
+- https://fastbots.ai/blog/10-common-chatbot-mistakes-and-how-to-avoid-them?utm_source=chatgpt.com
+- https://www.userlike.com/en/blog/chatbot-fails?utm_source=chatgpt.com
