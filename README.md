@@ -59,6 +59,7 @@ In 2023, it launched Duolingo Max using GPT-4, offering advanced conversational 
 - **Engagement**: Keeps users interested with gamification, rewards, and a friendly interface.
 - **Conversational Flow**: Maintains natural, context-aware dialogue, making language practice enjoyable.
 
+  ---
 ### Bad Chatbot Example: Microsoft Tay(Thinkg About You)
 
 In 2016, Microsoft launched Tay, an AI chatbot designed to interact with Twitter users and learn from those conversations. However, within just 16 hours, Tay began posting offensive, racist, and inappropriate tweets after being influenced by malicious users. As a result, Microsoft had to take Tay offline and issue a public apology.
