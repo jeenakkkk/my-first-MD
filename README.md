@@ -2,7 +2,8 @@
 
 Table of Contents:
 - [What is Chatbot?](#what-is-chatbot)
-- [What is Bad chatbot?](#what-is-bad-chatbot)
+- [What are the differences between Traditional Chatbot, AI Chatbot, and AI Agent?](#what-are-the-differences-between-traditional-chatbot,ai-chatbot,and-ai-agent)
+- [Good Chatbot versus Bad Chatbot](#good-chatbot-versus-bad-chatbot)
 - [Reference](#references)
 
 # What is Chatbot?
@@ -11,8 +12,7 @@ Definition: a computer program that **simulates human conversation** with an end
 - Chatbots can be found across nearly **any communication channe**l, from phone trees to social media to specific apps and websites
 - Not all chatbots are equipped with artificial intelligence (AI), but modern chatbots increasingly use conversational AI techniques such as natural language processing (NLP) to understand user questions and automate responses to them.
 
-
-**Traditional Chatbot vs AI Chatbot vs AI Agent Examples**
+## What are the differences between Traditional Chatbot, AI Chatbot, and AI Agent?
 
 | Type | Description |
 | ----------- | ----------- |
@@ -20,9 +20,8 @@ Definition: a computer program that **simulates human conversation** with an end
 | AI Chatbot | the user can ask, “What’s tomorrow’s weather lookin’ like?” The chatbot, correctly interpreting the question, says it will rain |
 | AI Agent | the user can ask, “What’s tomorrow’s weather lookin’ like?”—and the virtual agent not only predicts tomorrow’s rain, but also offers to set an earlier alarm to account for rain delays in the morning commute |
 
-![alt text](https://rockcontent.com/wp-content/uploads/2021/11/types-of-chatbots.png.webp)
 
-## What is Bad Chatbot?
+## Good Chatbot versus Bad Chatbot
 1. **(Inarticulate Answers)**
     
     The chatbot fails to understand user queries, often responding with irrelevant or nonsensical answers. This is typically due to inadequate natural language processing (NLP) capabilities or insufficient training data.
