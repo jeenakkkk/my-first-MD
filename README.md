@@ -33,7 +33,6 @@ Definition: a computer program that **simulates human conversation** with an end
 | **Accuracy** | Provides factual, reliable, and up-to-date information | Gives incorrect, outdated, or misleading information |
 | **Empathy \& Human Touch** | Responds with empathy, adapts to user mood, mimics human-like conversation | **Robotic, lacks empathy, cannot interpret emotions** |
 | **Personalization** | **Offers tailored responses based on user data and context** | Gives generic, one-size-fits-all answers |
-| **Conversational Flow** | Maintains natural, engaging, and context-aware dialogue | Produces awkward, repetitive, or off-topic responses | 
 | **Problem-Solving** | Handles both simple and complex queries, can escalate to human if needed | Struggles with complex issues, gets stuck or provides only basic solutions |
 | **Learning \& Improvement** | **Learns from interactions and feedback, continuously improves** | Static, repeats mistakes, does not adapt |
 | **Reliability** | Consistent, dependable, communicates clearly about errors or delays | Prone to errors, delays, or confusion without clear communication |
@@ -57,7 +56,6 @@ In 2023, it launched Duolingo Max using GPT-4, offering advanced conversational 
 
 - **Personalization**: Offers tailored responses and adapts to user level and learning pace.
 - **Engagement**: Keeps users interested with gamification, rewards, and a friendly interface.
-- **Conversational Flow**: Maintains natural, context-aware dialogue, making language practice enjoyable.
 
   ---
 ### Bad Chatbot Example: Microsoft Tay(Thinkg About You)
