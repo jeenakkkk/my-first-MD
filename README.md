@@ -18,9 +18,9 @@ Definition: a computer program that **simulates human conversation** with an end
 
 | Type | Description |
 | ----------- | ----------- |
-| Traditional Chatbot | the user can use the specific phrase “tell me the weather forecast.” The chatbot says it will rain |
-| AI Chatbot | the user can ask, “What’s tomorrow’s weather lookin’ like?” The chatbot, correctly interpreting the question, says it will rain |
-| AI Agent | the user can ask, “What’s tomorrow’s weather lookin’ like?”—and the virtual agent not only predicts tomorrow’s rain, but also offers to set an earlier alarm to account for rain delays in the morning commute |  
+| Traditional Chatbot | use fixed rules. the user can use the specific phrase “tell me the weather forecast.” The chatbot says it will rain |
+| AI Chatbot | use NLP — natural language processing — to understand intent and respond more flexibly. the user can ask, “What’s tomorrow’s weather lookin’ like?” The chatbot, correctly interpreting the question, says it will rain |
+| AI Agent | they can act, learn, and make decisions. the user can ask, “What’s tomorrow’s weather lookin’ like?”—and the virtual agent not only predicts tomorrow’s rain, but also offers to set an earlier alarm to account for rain delays in the morning commute |  
 
 
     
