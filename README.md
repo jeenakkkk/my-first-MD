@@ -58,18 +58,21 @@ In 2023, it launched Duolingo Max using GPT-4, offering advanced conversational 
 - **Engagement**: Keeps users interested with gamification, rewards, and a friendly interface.
 
   ---
-### Bad Chatbot Example: Microsoft Tay(Thinkg About You)
+### Bad Chatbot Example: LeeLuda
 
-In 2016, Microsoft launched Tay, an AI chatbot designed to interact with Twitter users and learn from those conversations. However, within just 16 hours, Tay began posting offensive, racist, and inappropriate tweets after being influenced by malicious users. As a result, Microsoft had to take Tay offline and issue a public apology.
-Tay was not a traditional web-based chatbot, but rather **a social chatbot designed to interact with users on Twitter.**
-Tay was built with the persona of an 18-year-old American girl. Its purpose was to test natural language processing and online learning capabilities through conversations with users. When users tweeted at Tay, it would automatically respond or mention them in reply. Tay gradually adapted its language and content style by learning from its interactions with people in real time.
+Luda was a Korean chatbot developed by the startup Scatter Lab in 2020.  
+It was designed to mimic a 20-year-old college student and offered casual, friendly conversations — similar to chatting with a real person.
+At first, users enjoyed talking with Luda due to her informal tone and empathetic responses.  
+However, the chatbot quickly sparked controversy after generating offensive and discriminatory toward social minorities including hate speech against LGBTQ individuals and sexist remarks, despite its friendly tone. It was also found to be trained on real user chat data without consent, raising serious privacy concerns. Public backlash led to its shutdown within weeks of launch. The service was shut down approximately three weeks after its launch.
 
-![alt text](https://media.npr.org/assets/img/2016/03/24/screen-shot-2016-03-24-at-10.48.22-1-_custom-f645238c4dc5351759f4756014fd18efd6e61124.png?s=1100&c=50&f=png)
 
-### Why is Tay a Bad Chatbot?
-- **Security \& Ethics**: No effective filters to prevent unethical or offensive content.
-- **Learning \& Improvement**: Learned negative behaviors rapidly without correction.
-- **Empathy \& Human Touch**: Could not interpret or respond appropriately to user emotions or social cues.
+![alt text](![image](https://github.com/user-attachments/assets/2e486f0f-a325-473e-bdd0-17c79df13d2b)
+![alt text](![image]([https://github.com/user-attachments/assets/2e486f0f-a325-473e-bdd0-17c79df13d2b](https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYUpBNytPMStLVCt4WGtiTi8vZ0JPUVQzczFQdFhtMDdTZE1WU3BsMG9lcng0eTJQaTBySXZ3bzAwb2FObkhWQUVwL2JyMU5PSTNLSmhDd2hBdUlaRU96YkM0Uk1vS255T3BqYVBsTzc3clFvWjlZZmhvQnRrU09NMG1UK1M2bnd2R09NbTAxMW5WSzZBM0hianFEL1NONnZ6c0ErNDFqT1dodFBaT09TN3lCY01qRStIMlZDTVIxU0RncnA5d1E5M29XT2dOdHlDbGpWZkNucktHbUM5V1NiRENEQk11VGFLemx1c1F3dk5CV2xaL2o3c0QveVErTThoUEtHL1p0OTNRV1VlajZGM2NwWFdkM05DQm9DbjY))
+
+
+### Why is Luda a Bad Chatbot?
+- **Security \& Ethics**: Luda violated user privacy by using personal chat data without consent and lacked ethical safeguards against harmful content.
+- **Learning \& Improvement**:  Luda’s learning system failed to filter biases or correct inappropriate behavior, leading to repeated offensive outputs.
 
 # References
 - [AI Chatbot Difference](https://writesonic.com/blog/traditional-vs-ai-vs-chatgpt-trained-chatbots?utm_source=chatgpt.com)
@@ -81,5 +84,4 @@ Tay was built with the persona of an 18-year-old American girl. Its purpose was 
 - [HappyFox Blog: Chatbot Script Examples](https://www.happyfox.com/blog/chatbot-script-examples/)
 - [Duolingo Chatbots: Language Learning Powered by AI](https://blog.duolingo.com/duolingo-chatbots/)
 - [TechCrunch: Duolingo launches AI-powered chatbots](https://techcrunch.com/2016/10/05/duolingo-launches-ai-powered-chatbots-to-help-you-learn-a-language/)
-- [Learning from Tay's introduction](https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/)
-- [Microsoft Is Sorry for That Whole Racist Twitter Bot Thing](https://time.com/4272822/microsoft-tay-twitter-bot-racist-ai-artificial-intelligence/)
+- ['Iruda' at the center of controversy two weeks after launch](https://www.etnews.com/20210113000117)
